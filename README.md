@@ -24,7 +24,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
 - 🤝 I’m looking for help with **Advanced CI/CD, cloud orchestration**
 
-- 📝 I regularly write articles on [DevOps blog](https://yourblog.com) (Update with actual link)
+- 📝 I regularly write articles on [DevOps blog](https://yourblog.com)
 
 - 💬 Ask me about **Python, Docker, Git, NTP, Flask API, monitoring**
 
@@ -54,17 +54,17 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
   - 📅 Started: September 2025
   - 📚 Learning Resources: [Kubernetes.io](https://kubernetes.io/)
 
-## Connect with Me 🌐
-- [LinkedIn](https://www.linkedin.com/in/amit-kaushik/) (Add your LinkedIn URL)
-- [DevOps Blog](https://yourblog.com) (Update with actual link)
-- 📧 [amitkaushik337@gmail.com](mailto:amitkaushik337@gmail.com)
+
+### 📫 **How to reach me**
+ - 🌐 LinkedIn: [AMIT KAUSHIK](https://www.linkedin.com/in/amit-kaushik-507831150/)
+
+ - 📧 Email: [amitkaushik337@gmail.com](mailto:amitkaushik337@gmail.com)
 
 ## Activity Overview 📊
-![Activity Overview](Figure_2.png "Activity Overview" width="500")
+![Activity Overview](Figure_2.png)
 
-## Skills 🛠️
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools🛠️:</h3>
 <p align="left"> 
   <!-- DevOps and Scripting -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -92,7 +92,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/> </a> 
   <a href="https://www.elastic.co/elk-stack" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/> </a> 
   <a href="https://www.fireeye.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fireeye/fireeye-icon.svg" alt="fireeye" width="40" height="40"/> </a> 
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> </a> 
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.wireshark.org/assets/images/icon.png" alt="wireshark" width="40" height="40"/> </a> <!-- Updated URL -->
   <a href="https://www.nmap.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40"/> </a> 
   <a href="https://metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/> </a> 
 </p>
