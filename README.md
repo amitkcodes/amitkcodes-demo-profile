@@ -1,5 +1,3 @@
-# Hi 👋, I'm Amit Kaushik
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik)](https://git.io/typing-svg)
 
 ### A passionate DevOps enthusiast and Python developer from India
@@ -34,31 +32,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
 - ⚡ **Fun Fact**: I geek out on perfecting system synchronization!
 
-## Activity Overview 📊
-![Activity Overview](Figure_2.png)
 
-## Skills 🛠️
-
-<div align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-</div>
-
-## GitHub Stats
-
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkcodes&show_icons=true&locale=en" alt="amitkcodes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&show_icons=true&locale=en&layout=compact" alt="amitkcodes" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes" />
-</div>
 
 ## Pinned Projects 📌
 - [amitkcodes.github.io](https://amitkcodes.github.io)  
@@ -84,6 +58,52 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 - [LinkedIn](https://www.linkedin.com/in/amit-kaushik/) (Add your LinkedIn URL)
 - [DevOps Blog](https://yourblog.com) (Update with actual link)
 - 📧 [amitkaushik337@gmail.com](mailto:amitkaushik337@gmail.com)
+
+## Activity Overview 📊
+![Activity Overview](Figure_2.png "Activity Overview" width="500")
+
+## Skills 🛠️
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <!-- DevOps and Scripting -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> 
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> 
+  <a href="https://powershell.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/powershell/powershell-icon.svg" alt="powershell" width="40" height="40"/> </a> 
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a> 
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
+
+  <!-- Cybersecurity Skills -->
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/> </a> 
+  <a href="https://www.elastic.co/elk-stack" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/> </a> 
+  <a href="https://www.fireeye.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fireeye/fireeye-icon.svg" alt="fireeye" width="40" height="40"/> </a> 
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> </a> 
+  <a href="https://www.nmap.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40"/> </a> 
+  <a href="https://metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/> </a> 
+</p>
+
+## GitHub Stats
+
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkcodes&show_icons=true&locale=en" alt="amitkcodes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&show_icons=true&locale=en&layout=compact" alt="amitkcodes" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes" />
+</div>
 
 ## More About Me 🌟
 - Hobbies: Exploring open-source DevOps tools, reading cloud architecture blogs
