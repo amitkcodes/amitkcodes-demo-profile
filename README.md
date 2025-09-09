@@ -42,7 +42,7 @@
 
 ## Goals 🎯
 - Become a Certified Kubernetes Administrator by 2026  
-  _Progress: ![Progress](https://progress-bar.dev/50/)_
+  _Progress: ![Progress](https://progress-bar.dev/50/)_  
   - 📅 Started: September 2025
   - 📚 Learning Resources: [Kubernetes.io](https://kubernetes.io/)
 
