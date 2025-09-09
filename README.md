@@ -36,9 +36,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
 - ⚡ **Fun Fact**: I geek out on perfecting system synchronization!
 
-
-
-## Pinned Projects 📌
+<!-- ## Pinned Projects 📌
 - [amitkcodes.github.io](https://amitkcodes.github.io)  
   _A personal portfolio showcasing my work._
 - [NTP_Server_Monitoring_Grafana-WAN-](https://github.com/amitkcodes/NTP_Server_Monitoring_Grafana-WAN-)  
@@ -50,7 +48,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 - [Firewall_Logs_data_filter-Visualization](https://github.com/amitkcodes/Firewall_Logs_data_filter-Visualization)  
   _Python script for filtering and visualizing firewall logs._
 - [Global_server_monitoring_Status](https://github.com/amitkcodes/Global_server_monitoring_Status)  
-  _Monitoring tool for global server status._
+  _Monitoring tool for global server status._ -->
 
 ## Goals 🎯
 - Become a Certified Kubernetes Administrator by 2026  
@@ -103,7 +101,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
 
 ## Activity Overview 📊
-<img src="Figure_2.png" alt="Activity Overview" width="400">
+<img src="Figure_2.png" alt="Activity Overview" width="300">
 
 
 ## More About Me 🌟
