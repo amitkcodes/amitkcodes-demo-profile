@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik&color=800080)](https://git.io/typing-svg)
 </p>
 
-<h3 align="center">A passionate DevOps enthusiast and Python developer from India</h3>
+<h3 align="center">Empowering Tomorrow with Professional DevOps and Python Solutions</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkcodes&label=Profile%20views&color=0e75b6&style=flat" alt="amitkcodes" /> </p>
@@ -28,13 +28,8 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
 - 🤝 I’m looking for help with **Advanced CI/CD, cloud orchestration**
 
-- 📝 I regularly write articles on [DevOps blog](https://yourblog.com)
-
 - 💬 Ask me about **Python, Docker, Git, NTP, Flask API, monitoring**
 
-- 📫 How to reach me **amitkaushik337@gmail.com**
-
-- ⚡ **Fun Fact**: I geek out on perfecting system synchronization!
 
 <!-- ## Pinned Projects 📌
 - [amitkcodes.github.io](https://amitkcodes.github.io)  
@@ -88,16 +83,14 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"> 
    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"> 
    <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="40" height="40"> 
- 
 </p>
 
-## GitHub Stats 🌟🌟🌟
+## GitHub Stats 🌟
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=amitkcodes&show_icons=true&locale=en" alt="amitkcodes" />
   <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&show_icons=true&locale=en&layout=compact" alt="amitkcodes" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes" />
-  
 </div>
 
 
