@@ -94,15 +94,17 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 ## GitHub Stats 🌟🌟🌟
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkcodes&show_icons=true&locale=en" alt="amitkcodes" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=amitkcodes&show_icons=true&locale=en" alt="amitkcodes" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&show_icons=true&locale=en&layout=compact" alt="amitkcodes" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes" />
 </div>
 
 
 ## Activity Overview 📊
-<img src="Figure_2.png" alt="Activity Overview" width="300">
+<p align="center">
+  <img src="Figure_2.png" alt="Activity Overview" width="300" />
+</p>
 
 
-## More About Me 🌟
-- Hobbies: Exploring open-source DevOps tools, reading cloud architecture blogs
+<!-- ## More About Me 🌟
+- Hobbies: Exploring open-source DevOps tools, reading cloud architecture blogs -->
