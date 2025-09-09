@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkcodes&layout=compact&theme=radical)](https://github.com/amitkcodes)
 
 ## Activity Overview 📊
-![Activity Overview](Figure_1.png)
+![Activity Overview](Figure_2.png)
 ### A passionate DevOps enthusiast and Python developer from India
 
 ## About Me 👨‍💻
