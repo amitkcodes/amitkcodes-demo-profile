@@ -1,10 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik&color=00FF00)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik&color=FF4500)](https://git.io/typing-svg)</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik&color=00008B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik&color=800080)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik&color=000000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik&color=FF0000)](https://git.io/typing-svg)
 
-### A passionate DevOps enthusiast and Python developer from India
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik&color=00008B)](https://git.io/typing-svg)
+</div>
+
+<h3 align="center">A passionate DevOps enthusiast and Python developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkcodes&label=Profile%20views&color=0e75b6&style=flat" alt="amitkcodes" /> </p>
 
@@ -64,14 +69,11 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
  - 📧 Email: [amitkaushik337@gmail.com](mailto:amitkaushik337@gmail.com)
 
-## Activity Overview 📊
-<img src="Figure_2.png" alt="Activity Overview" width="400">
-
 
 <h3 align="left">Languages and Tools🛠️:</h3>
 <p align="left"> 
   <!-- DevOps and Scripting -->
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40">  
+   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40">  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">  
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">  
    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40">  
@@ -89,20 +91,25 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">  
    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40">  
    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40">  
-  
- <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"> 
- <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"> 
- <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="40" height="40"> 
+   <!-- Cybersecurity Skills --> 
+   <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"> 
+   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"> 
+   <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="40" height="40"> 
  
 </p>
 
-## GitHub Stats
+## GitHub Stats 🌟🌟🌟
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkcodes&show_icons=true&locale=en" alt="amitkcodes" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&show_icons=true&locale=en&layout=compact" alt="amitkcodes" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes" />
 </div>
+
+
+## Activity Overview 📊
+<img src="Figure_2.png" alt="Activity Overview" width="400">
+
 
 ## More About Me 🌟
 - Hobbies: Exploring open-source DevOps tools, reading cloud architecture blogs
