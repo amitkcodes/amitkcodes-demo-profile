@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik&color=00FF00)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik&color=00008B)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kaushik&color=000000)](https://git.io/typing-svg)
 
 ### A passionate DevOps enthusiast and Python developer from India
 
@@ -24,7 +28,11 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
 - 🤝 I’m looking for help with **Advanced CI/CD, cloud orchestration**
 
+- 📝 I regularly write articles on [DevOps blog](https://yourblog.com)
+
 - 💬 Ask me about **Python, Docker, Git, NTP, Flask API, monitoring**
+
+- 📫 How to reach me **amitkaushik337@gmail.com**
 
 - ⚡ **Fun Fact**: I geek out on perfecting system synchronization!
 
@@ -74,11 +82,9 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40">  
    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40">  
    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40">  
-   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40">  
-   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40">  
+   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40">    
    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40">  
-   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40">  
-   <img src="https://www.vectorlogo.zone/logos/powershell/powershell-icon.svg" alt="powershell" width="40" height="40">  
+   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40">   
    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40">  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">  
    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40">  
@@ -86,10 +92,8 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
   
  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"> 
  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/FireEye.svg" alt="fireeye" width="40" height="40"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wireshark_icon.svg" alt="wireshark" width="40" height="40"> 
  <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="40" height="40"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Metasploit_logo_and_wordmark.svg" alt="metasploit" width="40" height="40"> 
+ 
 </p>
 
 ## GitHub Stats
