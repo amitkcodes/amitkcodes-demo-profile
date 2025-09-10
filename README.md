@@ -63,7 +63,6 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
  - 📧 Email: [amitkaushik337@gmail.com](mailto:amitkaushik337@gmail.com)
 
 ## Languages and Tools🛠️
-<h3 align="left">Languages and Tools🛠️:</h3>
 <p align="left"> 
   <!-- DevOps and Scripting -->
    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50">  
@@ -117,5 +116,5 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 </p>
 
 
-<!-- ## More About Me 🌟
-- Hobbies: Exploring open-source DevOps tools, reading cloud architecture blogs -->
+## More About Me 🌟
+- Hobbies: Exploring open-source DevOps tools, delving into AI tools and open-source resources to enhance automation skills, reading cloud architecture blogs, experimenting with new programming languages, contributing to community projects, and playing strategy games.
