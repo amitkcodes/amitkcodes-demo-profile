@@ -96,7 +96,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
     <tr >
       <!--Top Language -->
       <td align="center">
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&theme=light&animated=true" alt="amitkcodes" width="325px"/>
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&theme=light&animated=true" alt="amitkcodes" width="400px"/>
       </td>
       <!-- GitHub Stats -->
       <td>
