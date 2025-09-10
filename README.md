@@ -98,7 +98,10 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes" />
 </div>
 
-<table align="center" style="display: flex; justify-content: space-around; align-items: center; gap: 20px; flex-wrap: wrap;">
+## GitHub Stats 🌟
+
+<div align="center">
+  <table>
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkcodes&show_icons=true&locale=en" alt="amitkcodes" />
@@ -111,6 +114,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
     </td>
   </tr>
 </table>
+</div>
 
 ## Activity Overview 📊
 <p align="center">
