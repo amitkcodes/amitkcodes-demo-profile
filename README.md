@@ -9,12 +9,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkcodes&label=Profile%20views&color=0e75b6&style=flat" alt="amitkcodes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkcodes" alt="amitkcodes" /></a> </p>
-<img align="right" with="300" height="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding">
+
 
 ## About Me
 
 I have been working as an Aspiring DevOps Engineer, specializing in Python and related technologies. My expertise lies in developing robust and scalable applications, integrating various tools, and ensuring the best system performance. I am always keen to learn new technologies and stay updated with the latest industry trends.
-
+<img align="right" with="300" height="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding">
 - 🌍 **Location**: India
 - 💼 **Role**: Aspiring DevOps Engineer
 - 📧 **Email**: [amitkaushik337@gmail.com](mailto:amitkaushik337@gmail.com)
