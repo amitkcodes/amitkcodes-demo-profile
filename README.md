@@ -92,18 +92,10 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
 ## GitHub Stats 🌟
 
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=amitkcodes&show_icons=true&locale=en" alt="amitkcodes" />
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&show_icons=true&locale=en&layout=compact" alt="amitkcodes" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes" />
-</div>
-
-# ✨ My GitHub Stats:
-
 <div align="center">
   <table>
     <tr >
-      <!-- LeetCode Streak -->
+      <!--Top Language -->
       <td align="center">
         <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&show_icons=true&locale=en&layout=compact" alt="amitkcodes" width="325px"/>
       </td>
@@ -111,7 +103,8 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=amitkcodes&show_icons=true&locale=en" alt="amitkcodes" width="450px"/>
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes"" width="450px"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes"" width="450px"/>  
+      <!-- LeetCode Streak -->
       </td>
     </tr>
   </table>
