@@ -98,23 +98,25 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes" />
 </div>
 
-## GitHub Stats 🌟
+# ✨ My GitHub Stats:
 
 <div align="center">
   <table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkcodes&show_icons=true&locale=en" alt="amitkcodes" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&show_icons=true&locale=en&layout=compact" alt="amitkcodes" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes" />
-    </td>
-  </tr>
-</table>
+    <tr >
+      <!-- LeetCode Streak -->
+      <td align="center">
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&show_icons=true&locale=en&layout=compact" alt="amitkcodes" width="325px"/>
+      </td>
+      <!-- GitHub Stats -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=amitkcodes&show_icons=true&locale=en" alt="amitkcodes" width="450px"/>
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&" alt="amitkcodes"" width="450px"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ## Activity Overview 📊
 <p align="center">
