@@ -102,18 +102,22 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
 <div align="center">
   <table>
-    <tr>
-  <!-- LeetCode Streak -->
-  <td align="center">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=amitkcodes&theme=tokyonight&animated=true" alt="LeetCode Badges" width="325px"/>
-  </td>
-  <!-- GitHub Stats -->
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=amitkcodes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github" width="450px"/>
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&theme=tokyonight&hide_border=false" width="450px"/>
-  </td>
-</tr>
+    ## GitHub & LeetCode Stats 🌟
+
+<table align="center">
+  <tr>
+    <!-- LeetCode Streak -->
+    <td align="center">
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=amitkcodes&theme=tokyonight&animated=true" alt="LeetCode Badges" width="325px"/>
+    </td>
+    <!-- GitHub Stats -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=amitkcodes&theme=dark&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github" width="450px"/>
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkcodes&theme=dark&hide_border=false" width="450px"/>
+    </td>
+  </tr>
+</table>
   </table>
 </div>
 
