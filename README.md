@@ -20,7 +20,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 - 🌍 **Location**: India
 
 - 💼 **Role**: Aspiring DevOps Engineer
-- 
+  
 - 📧 **Email**: [amitkaushik337@gmail.com](mailto:amitkaushik337@gmail.com)
 
 - 🔭 I’m currently working on [NTP Server Monitoring](https://github.com/amitkcodes/NTP_Server_Monitoring_Grafana-WAN-)
