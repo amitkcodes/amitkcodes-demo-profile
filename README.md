@@ -97,8 +97,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
       <!--Top Language -->
       <td align="center">
         <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&show_icons=true&locale=en&layout=compact" alt="amitkcodes" width="325px"/>
-        <br/>
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&theme=tokyonight&animated=true" alt="amitkcodes" width="325px"/>
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkcodes&theme=light&animated=true" alt="amitkcodes" width="325px"/>
       </td>
       <!-- GitHub Stats -->
       <td>
