@@ -17,7 +17,7 @@ I have been working as an Aspiring DevOps Engineer, specializing in Python and r
 
 <img align="right" with="250" height="250" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding">
 
-- 🌍 **Location**: India
+- 🌍 **Location**:Delhi,India
 
 - 💼 **Role**: Aspiring DevOps Engineer
   
